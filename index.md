@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Khine's Page
 
-You can use the [editor on GitHub](https://github.com/kzaw7/personal_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my personal projects in the below section.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Personal Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
