@@ -7,11 +7,17 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         
     </head>
-    <img src="C:\Users\Khine\Pictures\mypic.png" alt="mypic" width="100" height="100">
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="wallpaper.jpg"></a>     
+            <a href="index.html"><img src="chara.png"></a>
+    
 <h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<p>This is a paragraph</p>
 
-</body>
+</nav>
+    </section>
+    </body>
 
 
 </html>
