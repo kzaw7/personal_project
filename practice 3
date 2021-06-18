@@ -8,7 +8,7 @@ console.log(a())
 //2
 function a(){
     return 4;
-}hgiti
+}
 console.log(a()+a());
 //Answer:8
 
