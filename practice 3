@@ -36,6 +36,7 @@ function a(b){
  
  //Answer: 10,40
 
+
 //6
 function a(b){
     if(b<10) {
