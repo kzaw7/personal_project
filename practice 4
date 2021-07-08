@@ -1,0 +1,21 @@
+1. list 
+<ul>
+  <li>Some text here. </li>
+  <li>Some new text here. </li>
+  <li>You get the idea. </li>
+</ul>
+
+2.Place All External CSS Files Within the Head Tag
+<head>
+<title>My Favorites Kinds of Corn</title>
+<link rel="stylesheet" type="text/css" media="screen" href="path/to/file.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="path/to/anotherFile.css" />
+</head>
+
+3.Consider Placing JavaScript Files at the Bottom
+
+4.Keep Your Tag Names Lowercase
+<div>
+<p>Here's an interesting fact about corn. </p>
+</div>
+
