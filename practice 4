@@ -37,3 +37,9 @@
     <td>94</td>
   </tr>
 </table>
+
+6. Block Level Element
+<div>Hello World</div>
+
+7. Inline Element
+<span>Hello World</span>
