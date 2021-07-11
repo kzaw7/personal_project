@@ -43,3 +43,11 @@
 
 7. Inline Element
 <span>Hello World</span>
+
+8. Colors 
+Background Color <h1 style="background-color:DodgerBlue;">Hello World</h1>
+Text Color <h1 style="color:Tomato;">Hello World</h1>
+Border Color <h1 style="border:2px solid Tomato;">Hello World</h1>
+Color Value <h1 style="background-color:rgb(255, 99, 71);">...</h1>
+
+9.
