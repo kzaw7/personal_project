@@ -102,3 +102,7 @@ To create a responsive website, add the following <meta> tag to all your web pag
 13. Using the max-width Property for an image
 <img src="img_girl.jpg" style="max-width:100%;height:auto;">
 
+14. Font-Family
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+
