@@ -27,3 +27,5 @@ body {
  background-repeat: repeat-x;
 - Position of the background image
  background-position: right top;
+-Specify that the background image should scroll with the rest of the page:
+background-attachment: scroll;
