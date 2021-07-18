@@ -14,3 +14,16 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+2. CSS- Background 
+div {
+  background-color: green;
+  opacity: 0.3;
+}
+-Background Image 
+body {
+  background-image: url("bgdesert.jpg");
+}
+- Repeating 
+ background-repeat: repeat-x;
+- Position of the background image
+ background-position: right top;
