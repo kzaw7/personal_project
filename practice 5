@@ -29,3 +29,9 @@ body {
  background-position: right top;
 -Specify that the background image should scroll with the rest of the page:
 background-attachment: scroll;
+
+-CSS Margins 
+margin-top
+margin-right
+margin-bottom
+margin-left
