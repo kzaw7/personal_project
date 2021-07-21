@@ -19,19 +19,28 @@ div {
   background-color: green;
   opacity: 0.3;
 }
--Background Image 
+3.Background Image 
 body {
   background-image: url("bgdesert.jpg");
 }
-- Repeating 
+4. Repeating 
  background-repeat: repeat-x;
 - Position of the background image
  background-position: right top;
 -Specify that the background image should scroll with the rest of the page:
 background-attachment: scroll;
 
--CSS Margins 
+5. CSS Margins 
 margin-top
 margin-right
 margin-bottom
 margin-left
+
+6. margin: 25px 50px 75px;
+top margin is 25px
+right and left margins are 50px
+bottom margin is 75px
+
+7. p.italic {
+  font-style: italic;
+}
