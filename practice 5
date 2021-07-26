@@ -51,6 +51,14 @@ div.relative {
   left: 30px;
   border: 3px solid #73AD21;
 }
-Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline they are not.
+9. Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline they are not.
 
 Compared to display: block, the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.
+
+10. Alignment 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
