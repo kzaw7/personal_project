@@ -71,6 +71,7 @@ body {
 div {
   background-color: transparent;
 }
+
 12. CSS Shadow Effects
 h1 {
   text-shadow: 2px 2px;
@@ -81,4 +82,11 @@ h1 {
 h1 {
   color: white;
   text-shadow: 2px 2px 4px #000000;
+}
+
+13. CSS Object-Position
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
 }
