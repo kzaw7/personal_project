@@ -71,3 +71,7 @@ body {
 div {
   background-color: transparent;
 }
+12. CSS Shadow Effects
+h1 {
+  text-shadow: 2px 2px;
+}
