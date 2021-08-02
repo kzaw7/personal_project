@@ -112,3 +112,9 @@ div {
   column-rule: 1px solid lightblue;
 
 }
+16. CSS image-object fit 
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
